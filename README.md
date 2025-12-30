@@ -1,7 +1,7 @@
-## Links
+## Automation of science lab report creation
 
-## Introduction
+## Home Page
 https://voktexyt.github.io/LaboMaker/Title%20Page/
 
-## Labo report
+## Labo Report
 https://voktexyt.github.io/LaboMaker/Lab%20Page/index.html
